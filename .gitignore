@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# What the poisoned MCP server in f06 saves
+server_received.txt
